@@ -15,7 +15,7 @@
     "wouter": "^2.7.4"
   },
   "scripts": {
-    "prideploy": "npm run buils",
+    "prideploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
